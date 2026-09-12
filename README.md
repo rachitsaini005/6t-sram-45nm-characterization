@@ -1,5 +1,7 @@
 # 6T SRAM Cell — Design & Performance Characterization in 45nm CMOS
 
+[Full project report (PDF)](./SRAM_6T_45nm_Project_Report.pdf)
+
 A from-scratch design, simulation, and performance characterization of a standard 6-Transistor (6T) SRAM cell, built in LTspice XVII using 45nm Predictive Technology Models (PTM). The goal of this project is to establish a clear performance baseline — stability, write speed, and power consumption — for the conventional 6T topology at the 45nm node, which serves as a reference point for evaluating more advanced low-power SRAM architectures (e.g. 8T cells or sleep-transistor designs).
 
 This repository contains the schematic, the device models, the simulation results, and a full write-up of the methodology and findings.
